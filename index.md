@@ -1,3 +1,4 @@
-# Welcome to my blog
+# halloa PPL 
+## Welcome to Lomla's first Github page 
 
-I'm glad you are here. I plan to talk about ...
+I really want to understand how to use Github well ;d
